@@ -50,7 +50,7 @@ def help1(update, context):
         /start -> inicia la conversación
         /help -> lista de comandos
         /end -> una despedida
-        /sumar -> suma de dos dígitos (ejemplo: /suma 2 2)
+        /suma -> suma de dos dígitos (ejemplo: /suma 2 2)
         /tendencias -> muestra el top 10 de busquédas de google
         
         """
